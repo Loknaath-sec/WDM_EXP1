@@ -57,6 +57,8 @@ rainy,75.0,80.0,false,yes
 ![image](https://github.com/user-attachments/assets/993d9a6b-73b1-4aba-8236-c0a5047aeb4c)
 
 #### Weather
+![image](https://github.com/user-attachments/assets/bb8994ff-2f08-491e-a3cb-c4d165e4e35d)
+
 
 ### PREPROCESSING
 ### Procedure:
