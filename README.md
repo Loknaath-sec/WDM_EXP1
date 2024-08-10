@@ -130,6 +130,7 @@ rainy,75.0,80.0,false,yes
 ![image](https://github.com/user-attachments/assets/7d2b7e28-4911-4832-bfec-1bcdc4246137)
 
 #### Weather
+![image](https://github.com/user-attachments/assets/8b94f2a5-7645-42d0-90c2-ce31540cbcea)
 
 
 ### RESULT: 
